@@ -1,0 +1,1538 @@
+[
+  {
+    "path": "/",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/about-sba",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/information-other-languages",
+    "score": 0.93,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.79
+  },
+  {
+    "path": "/about-sba/open-government",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/open-government/about-sbagov-website",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/open-government/about-sbagov-website/accessibility",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/open-government/about-sbagov-website/disclaimer",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/open-government/about-sbagov-website/linking-policy",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/open-government/about-sbagov-website/no-fear-act",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/about-sba/open-government/about-sbagov-website/privacy-policy",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/about-sba/open-government/about-sbagov-website/privacy-policy/social-media-privacy-policies",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/open-government/about-sbagov-website/sba-account-login-registration-portals",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/open-government/about-sbagov-website/social-media",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/open-government/about-sbagov-website/vulnerability-disclosure-policy",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/open-government/ai-inventory",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/open-government/digital-sba",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/open-government/information-quality",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/open-government/information-quality/information-quality-guidelines",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/open-government/information-quality/plain-language",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/open-government/information-quality/website-content-inventory",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/open-government/made-america-waivers",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/open-government/privacy-act",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/open-government/privacy-act-request-guide",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/about-sba/open-government/privacy-act/privacy-act-system-records-notices-sorns",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/about-sba/open-government/sba-guidance",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/organization",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/organization/contact-sba",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/organization/federal-advisory-committees",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/organization/observances",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/organization/observances/asian-american-native-hawaiian-pacific-islander-heritage-month",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/organization/observances/black-history-month",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/organization/observances/hispanic-heritage-month",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/organization/observances/lgbtq-pride-month",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/organization/observances/national-small-business-week/virtual-summit",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/organization/observances/national-womens-small-business-month",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/organization/observances/native-american-heritage-month",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/organization/observances/sba-celebrates-rural-small-businesses",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/organization/observances/womens-history-month",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/organization/performance",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/organization/sba-initiatives",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/organization/sba-initiatives/council-underserved-communities",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/organization/sba-initiatives/invention-innovation-entrepreneurship-advisory-committee",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/organization/sba-initiatives/investment-capital-advisory-committee",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/organization/sba-initiatives/labor-partnerships-worker-organizing",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/organization/sba-initiatives/national-pan-hellenic-council",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/organization/sba-initiatives/sba-equity-initiative",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/about-sba/organization/sba-initiatives/small-business-saturday",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/organization/sba-initiatives/support-manufacturing-businesses",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/organization/sba-leadership",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/oversight-advocacy",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/oversight-advocacy/office-hearings-appeals",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/oversight-advocacy/office-hearings-appeals/8a-eligibility-appeals",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/oversight-advocacy/office-hearings-appeals/appeal-publication-policy",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/oversight-advocacy/office-hearings-appeals/naics-appeals",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/oversight-advocacy/office-hearings-appeals/oha-decisions",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/oversight-advocacy/office-hearings-appeals/ppp-appeals",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/oversight-advocacy/office-hearings-appeals/size-appeals",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/oversight-advocacy/office-hearings-appeals/vosb-sdvosb-protest-appeals",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/oversight-advocacy/office-hearings-appeals/wosb-edwosb-appeals",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/oversight-advocacy/office-inspector-general",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/oversight-advocacy/office-inspector-general/about-office-inspector-general",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/oversight-advocacy/office-inspector-general/congressional-affairs-media",
+    "score": 0.94,
+    "performance": 0.97,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/oversight-advocacy/office-inspector-general/connect-oig",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/oversight-advocacy/office-inspector-general/office-inspector-general-hotline",
+    "score": 0.91,
+    "performance": 0.95,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/oversight-advocacy/office-inspector-general/pandemic-response-oversight",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/oversight-advocacy/office-inspector-general/reports",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/oversight-advocacy/office-inspector-general/whistleblower-protection",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/oversight-advocacy/office-inspector-general/work-oig",
+    "score": 0.89,
+    "performance": 0.87,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/oversight-advocacy/office-national-ombudsman",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/oversight-advocacy/office-national-ombudsman/compliance-contacts",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.83
+  },
+  {
+    "path": "/about-sba/sba-locations",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/sba-locations/disaster-field-operations-centers",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/sba-locations/headquarters-offices",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/sba-locations/headquarters-offices/office-business-development",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/sba-locations/headquarters-offices/office-entrepreneurial-development",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/sba-locations/headquarters-offices/office-field-operations",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/sba-locations/headquarters-offices/office-government-contracting-business-development",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/sba-locations/headquarters-offices/office-hubzone-program",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/sba-locations/headquarters-offices/office-international-trade",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/sba-locations/headquarters-offices/office-native-american-affairs",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/sba-locations/headquarters-offices/office-womens-business-ownership",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/sba-locations/loan-guaranty-centers",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/sba-locations/loan-guaranty-centers/commercial-loan-service-centers",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.83
+  },
+  {
+    "path": "/about-sba/sba-locations/loan-guaranty-centers/commercial-loan-service-centers/504-liquidations",
+    "score": 0.94,
+    "performance": 0.97,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/sba-locations/loan-guaranty-centers/commercial-loan-service-centers/7a-express-servicing",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/sba-locations/loan-guaranty-centers/commercial-loan-service-centers/cdc504-loan-servicing",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/sba-locations/loan-guaranty-centers/commercial-loan-service-centers/guaranty-purchase",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/sba-locations/loan-guaranty-centers/commercial-loan-service-centers/post-servicing-actions",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/sba-locations/loan-guaranty-centers/disaster-loan-servicing-center-birmingham-al",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/sba-locations/loan-guaranty-centers/disaster-loan-servicing-center-el-paso-tx",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/sba-locations/loan-guaranty-centers/loan-guaranty-processing-center-citrus-heights-ca-hazard-ky",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/sba-locations/loan-guaranty-centers/loan-guaranty-processing-center-citrus-heights-ca-hazard-ky/application-submission",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/sba-locations/loan-guaranty-centers/loan-guaranty-processing-center-citrus-heights-ca-hazard-ky/loan-closing",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/sba-locations/loan-guaranty-centers/national-disaster-loan-resolution-center-santa-ana-ca",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/sba-locations/loan-guaranty-centers/national-disaster-loan-resolution-center/administrative-wage-garnishment",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/sba-locations/loan-guaranty-centers/national-guaranty-purchase-center-herndon-va",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/sba-locations/loan-guaranty-centers/national-guaranty-purchase-center-herndon-va/guaranty-purchase-process",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/sba-locations/loan-guaranty-centers/national-guaranty-purchase-center-herndon-va/liquidation-process",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/sba-locations/loan-guaranty-centers/sacramento-loan-processing-center-sacramento-ca",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/sba-locations/national-guaranty-purchase-center-herndon-va/forms/when-request-purchase",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/sba-locations/sba-district-offices",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.83
+  },
+  {
+    "path": "/about-sba/sba-newsroom",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/work-sba",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/work-sba/contracting-sba",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/work-sba/disaster-response-jobs-sba",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/work-sba/employee-life",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-sba/work-sba/jobs-sba",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/agency-compliance-contacts",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/annual-reports",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.86
+  },
+  {
+    "path": "/article/2006/jul/12/eric-m-thorson-inspector-general-us-small-business-administration-committee-small-business",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2006/jul/13/eric-m-thorson-inspector-general-us-small-business-administration-committee-homeland-security",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2006/may/10/eric-m-thorson-inspector-general-ussmall-business-administration-subcommittee-government-management",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2007/jul/25/statement-hon-eric-m-thorson-inspector-general-us-small-business-administration-committee-small",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2007/nov/13/eric-m-thorson-inspector-general-us-small-business-administration-committee-small-business",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2007/sep/20/testimony-debra-s-ritt-assistant-inspector-general-auditing-us-small-business-administration",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2009/jul/16/debra-ritt-assistant-inspector-general-auditing-us-small-business-administration-ad-hoc-subcommittee",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2010/apr/21/peggy-e-gustafson-inspector-general-us-small-business-administration-small-business-committee-united",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2011/apr/07/mcclintock-testimony-senate-indian-affairs-april-7-2011",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2011/dec/06/statement-peggy-e-gustafson-us-senate-committee-homeland-security-government-affairs-subcommittee",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2011/jul/19/sbas-july-web-chat-offers-tips-advice-growing-home-based-business",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2011/jun/08/thriving-business-owner-shares-tips-advice-during-sbas-june-web-chat",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2011/jun/16/testimony-sba-inspector-general-peggy-e-gustafson-senate-committee-small-business-entrepreneurship",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2011/jun/23/sba-exhorta-sobrevivientes-de-desastres-que-tengan-cuidado-con-las-estafas-relativas-la-recuperacion",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2011/mar/10/peggy-e-gustafson-inspector-general-us-small-business-administration-small-business-entrepreneurship",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2011/mar/17/testimony-us-small-business-administration-inspector-general-peggy-e-gustafson-senate-ad-hoc",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2011/oct/21/sbas-october-web-chat-revisits-women-owned-small-business-federal-contract-program",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2011/oct/27/testimony-sba-inspector-general-peggy-e-gustafson-house-committee-small-business-subcommittee",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2011/sep/22/disaster-recovery-tips-advice-offered-homeowners-businesses",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2012/dec/17/statement-sba-administrator-karen-mills-revocation-edfs-authority-participate-504-loan-program",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2012/mar/29/statement-peggy-e-gustafson-sba-inspector-general-senate-committee-small-business-entrepreneurship",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2012/nov/15/sbas-november-web-chat-will-offer-how-tips-small-business-owners-0",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2012/oct/12/sba-federal-reserve-bank-st-louis-mo-national-small-business-association-join-forces-help-small",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2012/sep/11/new-sba-web-tool-helps-market-research",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2013/apr/10/statement-peggy-e-gustafson-inspector-general-us-small-business-administration-committee",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2013/apr/17/statement-peggy-e-gustafson-inspector-general-small-business-administrationbefore-us-senate",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2013/jun/05/statement-peggy-e-gustafson-inspector-general-small-business-administration-committee-small-business",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2013/nov/04/do-you-know-difference-between-your-companys-disaster-risk-its-preparedness-level",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2013/nov/19/statement-peggy-e-gustafson-inspector-general-us-small-business-administration-us-senate-committee",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2014/apr/09/statement-peggy-e-gustafson-inspector-general-sba-senate-committee-small-business-entrepreneurship",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2014/apr/10/sba-inspector-general-peggy-e-gustafson-chair-legislation-committee-cigie-statement-record-us-senate",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2014/aug/19/head-small-business-administration-meets-colorado-business-owners",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2014/feb/06/sba-hosts-twitter-chat-young-entrepreneurs-1",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2014/jan/31/sba-revokes-authority-sem-resource-capital-participate-504-loan-program-revised",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2015/jul/01/today-obama-cabinet-member-address-small-business-environment-north-dakota",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/01/14459-sba-deadline-working-capital-loans-kentucky-may-2",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/01/fl-14452-sba-deadline-florida-working-capital-loans-due-drought-may-2",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/01/ga-14656-sba-disaster-assistance-available-union-county-private-nonprofit-organizations-georgia",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/01/ia-14403-03-one-month-left-apply-sba-disaster-loans",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/01/mi-14620-sba-closes-business-recovery-center-flint-michigan-help-still-available",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/01/ms-14685-additional-counties-eligible-sba-disaster-assistance-mississippi",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/01/mt-14454-02-one-month-left-apply-sba-disaster-loans",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/01/sd-14399-03-one-month-left-apply-sba-disaster-loans",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/04/pr-14457-deadline-approaching-puerto-rico-sba-working-capital-loans",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/04/pr-14457-la-fecha-limite-se-acerca-en-puerto-rico-para-solicitar-prestamos-de-capital-de-trabajo",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/04/vt-14398-sba-deadline-economic-injury-disaster-loans-private-nonprofit-organizations-vermont-april",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 0.96,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/05/14459-sba-deadline-working-capital-loans-indiana-may-2",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/05/nc-14687-sba-economic-injury-disaster-loans-available-north-carolina-following-secretary-agriculture",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 0.96,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/05/pr-14684-los-prestamos-para-perdidas-economicas-de-sba-en-puerto-rico-siguiente-declaracion-del",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 0.96,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/05/pr-14684-sba-economic-injury-disaster-loans-available-puerto-rico-following-secretary-agriculture",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 0.96,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/06/la-14667-03-sba-tops-16-million-disaster-assistance-loans",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/06/mp-14405-07-one-month-left-apply-sba-disaster-loans",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/06/mp-14407-03-one-month-left-apply-sba-disaster-loans",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/06/va-14665-deadline-approaching-virginia-private-nonprofit-organizations-apply-physical-damage",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/07/ny-14466-sba-deadline-working-capital-loans-massachusetts-may-9",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 0.96,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/07/ny-14466-sba-deadline-working-capital-loans-new-york-may-9",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 0.96,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/07/ny-14466-sba-deadline-working-capital-loans-vermont-may-9",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 0.96,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/07/sc-14463-sba-deadline-working-capital-loans-south-carolina-may-9",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/07/wv-14418-sba-deadline-economic-injury-disaster-loans-private-nonprofit-organizations-west-virginia",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/08/dc-14690-sba-disaster-assistance-available-private-nonprofit-organizations-district-columbia",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/08/fl-14671-sba-offers-economic-injury-disaster-loans-small-businesses-florida-affected-excessive-rain",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/08/ny-14464-sba-deadline-working-capital-loans-disaster-declaration-pennsylvania-may-9",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/08/or-14663-02-one-month-left-apply-sba-disaster-loans",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/08/sba-administrator-recognizes-export-lenders-year",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/08/sc-14463-sba-deadline-working-capital-loans-georgia-may-9",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/08/sc-14463-sba-deadline-working-capital-loans-north-carolina-may-9",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/08/sd-14413-02-one-month-left-apply-sba-disaster-loans",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/11/fl-14688-fl-14692-sba-offers-disaster-assistance-residents-florida-affected-severe-storms-tornadoes",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 0.96,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/12/ky-14420-sba-deadline-apply-economic-injury-disaster-loans-kentucky-may-12",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 0.96,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/12/ky-14422-sba-deadline-economic-injury-disaster-loans-private-nonprofit-organizations-kentucky-may-12",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 0.96,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/12/national-small-business-week-cosponsors-hosting-training-webinars-may-2-5-0",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.91
+  },
+  {
+    "path": "/article/2016/apr/12/ny-14465-sba-deadline-working-capital-loans-disaster-declaration-new-jersey-may-9",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/12/ny-14465-sba-deadline-working-capital-loans-disaster-declaration-new-massachusetts-may-9",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/12/ny-14465-sba-deadline-working-capital-loans-disaster-declaration-pennsylvania-may-9",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/12/ny-14465-sba-deadline-working-capital-loans-due-secretary-agriculture-declaration-new-york-may-9",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/12/va-14665-sba-disaster-assistance-available-additional-areas-private-nonprofit-organizations-virginia",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/13/ms-14685-over-1-million-sba-disaster-loans-approved-mississippi",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/14/cybersecurity-small-business",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/14/de-14673-deadline-approaching-delaware-private-nonprofit-organizations-apply-physical-damage",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/14/nj-14669-sba-deadline-new-jersey-private-nonprofit-organizations-apply-physical-damage-disaster",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/14/ok-14696-01-sba-offers-disaster-assistance-oklahoma-businesses-residents-affected-tornadoes-severe",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/14/va-14433-sba-deadline-apply-economic-injury-disaster-loans-virginia-may-18",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 0.96,
+    "best-practices": 0.92,
+    "seo": 0.93
+  },
+  {
+    "path": "/article/2016/apr/15/14431-sba-deadline-apply-economic-injury-disaster-loans-indiana-may-18",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.93
+  }
+]
