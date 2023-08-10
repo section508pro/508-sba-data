@@ -2,7 +2,7 @@
   {
     "path": "/",
     "score": 0.98,
-    "performance": 1,
+    "performance": 0.98,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 0.92
@@ -10,15 +10,15 @@
   {
     "path": "/about-sba",
     "score": 0.96,
-    "performance": 1,
+    "performance": 0.99,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 0.83
   },
   {
     "path": "/about-sba/information-other-languages",
-    "score": 0.88,
-    "performance": 0.77,
+    "score": 0.93,
+    "performance": 0.98,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 0.75
@@ -50,7 +50,7 @@
   {
     "path": "/about-sba/open-government/about-sbagov-website/disclaimer",
     "score": 0.96,
-    "performance": 0.99,
+    "performance": 1,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 0.83
@@ -66,7 +66,7 @@
   {
     "path": "/about-sba/open-government/about-sbagov-website/no-fear-act",
     "score": 0.96,
-    "performance": 0.99,
+    "performance": 1,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 0.83
@@ -138,7 +138,7 @@
   {
     "path": "/about-sba/open-government/information-quality",
     "score": 0.96,
-    "performance": 0.99,
+    "performance": 1,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 0.83
@@ -154,7 +154,7 @@
   {
     "path": "/about-sba/open-government/information-quality/plain-language",
     "score": 0.96,
-    "performance": 0.99,
+    "performance": 1,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 0.83
@@ -169,8 +169,8 @@
   },
   {
     "path": "/about-sba/open-government/made-america-waivers",
-    "score": 0.95,
-    "performance": 0.98,
+    "score": 0.96,
+    "performance": 1,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 0.83
@@ -185,8 +185,8 @@
   },
   {
     "path": "/about-sba/open-government/privacy-act/privacy-act-system-records-notices-sorns",
-    "score": 0.95,
-    "performance": 0.99,
+    "score": 0.96,
+    "performance": 1,
     "accessibility": 0.99,
     "best-practices": 1,
     "seo": 0.83
@@ -218,7 +218,7 @@
   {
     "path": "/about-sba/organization/federal-advisory-committees",
     "score": 0.96,
-    "performance": 0.99,
+    "performance": 1,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 0.83
@@ -266,7 +266,7 @@
   {
     "path": "/about-sba/organization/observances/national-small-business-week/virtual-summit",
     "score": 0.96,
-    "performance": 0.99,
+    "performance": 1,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 0.83
@@ -362,7 +362,7 @@
   {
     "path": "/about-sba/organization/sba-initiatives/sba-equity-initiative",
     "score": 0.96,
-    "performance": 0.99,
+    "performance": 1,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 0.83
@@ -402,7 +402,7 @@
   {
     "path": "/about-sba/oversight-advocacy/office-hearings-appeals",
     "score": 0.96,
-    "performance": 0.99,
+    "performance": 1,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 0.83
@@ -432,7 +432,15 @@
     "seo": 0.83
   },
   {
-    "path": "/about-sba/oversight-advocacy/office-hearings-appeals/naics-appeals",
+    "path": "/about-sba/oversight-advocacy/office-hearings-appeals/oha-decisions",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about-sba/oversight-advocacy/office-hearings-appeals/ppp-appeals",
     "score": 0.96,
     "performance": 1,
     "accessibility": 1,
@@ -456,25 +464,17 @@
     "seo": 0.83
   },
   {
-    "path": "/about-sba/oversight-advocacy/office-hearings-appeals/vosb-sdvosb-protest-appeals",
-    "score": 0.96,
-    "performance": 1,
-    "accessibility": 1,
-    "best-practices": 1,
-    "seo": 0.83
-  },
-  {
     "path": "/about-sba/oversight-advocacy/office-hearings-appeals/wosb-edwosb-appeals",
-    "score": 0.96,
-    "performance": 0.99,
+    "score": 0.95,
+    "performance": 0.97,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 0.83
   },
   {
     "path": "/about-sba/oversight-advocacy/office-inspector-general",
-    "score": 0.95,
-    "performance": 0.97,
+    "score": 0.96,
+    "performance": 1,
     "accessibility": 0.99,
     "best-practices": 1,
     "seo": 0.83
@@ -490,39 +490,39 @@
   {
     "path": "/about-sba/oversight-advocacy/office-inspector-general/congressional-affairs-media",
     "score": 0.95,
-    "performance": 0.97,
-    "accessibility": 1,
-    "best-practices": 1,
-    "seo": 0.83
-  },
-  {
-    "path": "/about-sba/oversight-advocacy/office-inspector-general/connect-oig",
-    "score": 0.96,
-    "performance": 0.99,
+    "performance": 0.98,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 0.83
   },
   {
     "path": "/about-sba/oversight-advocacy/office-inspector-general/office-inspector-general-hotline",
-    "score": 0.88,
-    "performance": 0.78,
+    "score": 0.89,
+    "performance": 0.8,
     "accessibility": 1,
     "best-practices": 0.92,
     "seo": 0.83
   },
   {
     "path": "/about-sba/oversight-advocacy/office-inspector-general/pandemic-response-oversight",
-    "score": 0.95,
-    "performance": 0.98,
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about-sba/oversight-advocacy/office-inspector-general/protect-yourself-scams-fraud",
+    "score": 0.96,
+    "performance": 1,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 0.83
   },
   {
     "path": "/about-sba/oversight-advocacy/office-inspector-general/reports",
-    "score": 0.95,
-    "performance": 0.98,
+    "score": 0.96,
+    "performance": 1,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 0.83
@@ -530,15 +530,15 @@
   {
     "path": "/about-sba/oversight-advocacy/office-inspector-general/whistleblower-protection",
     "score": 0.96,
-    "performance": 0.99,
+    "performance": 1,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 0.83
   },
   {
     "path": "/about-sba/oversight-advocacy/office-inspector-general/work-oig",
-    "score": 0.89,
-    "performance": 0.79,
+    "score": 0.91,
+    "performance": 0.89,
     "accessibility": 1,
     "best-practices": 0.92,
     "seo": 0.83
@@ -562,7 +562,7 @@
   {
     "path": "/about-sba/sba-locations",
     "score": 0.96,
-    "performance": 0.99,
+    "performance": 1,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 0.83
@@ -584,7 +584,7 @@
     "seo": 0.83
   },
   {
-    "path": "/about-sba/sba-locations/headquarters-offices/office-business-development",
+    "path": "/about-sba/sba-locations/headquarters-offices/office-chief-human-capital-officer",
     "score": 0.96,
     "performance": 1,
     "accessibility": 1,
@@ -600,7 +600,7 @@
     "seo": 0.83
   },
   {
-    "path": "/about-sba/sba-locations/headquarters-offices/office-entrepreneurship-education",
+    "path": "/about-sba/sba-locations/headquarters-offices/office-entrepreneurial-development",
     "score": 0.96,
     "performance": 1,
     "accessibility": 1,
@@ -632,7 +632,7 @@
     "seo": 0.83
   },
   {
-    "path": "/about-sba/sba-locations/headquarters-offices/office-small-business-development-centers",
+    "path": "/about-sba/sba-locations/headquarters-offices/office-native-american-affairs",
     "score": 0.96,
     "performance": 1,
     "accessibility": 1,
@@ -640,9 +640,9 @@
     "seo": 0.83
   },
   {
-    "path": "/about-sba/sba-locations/headquarters-offices/office-womens-business-ownership",
+    "path": "/about-sba/sba-locations/headquarters-offices/office-small-business-development-centers",
     "score": 0.96,
-    "performance": 0.99,
+    "performance": 1,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 0.83
@@ -666,7 +666,7 @@
   {
     "path": "/about-sba/sba-locations/loan-guaranty-centers/commercial-loan-service-centers/504-liquidations",
     "score": 0.95,
-    "performance": 0.97,
+    "performance": 0.99,
     "accessibility": 0.99,
     "best-practices": 1,
     "seo": 0.83
@@ -697,8 +697,8 @@
   },
   {
     "path": "/about-sba/sba-locations/loan-guaranty-centers/commercial-loan-service-centers/post-servicing-actions",
-    "score": 0.95,
-    "performance": 0.98,
+    "score": 0.96,
+    "performance": 1,
     "accessibility": 0.99,
     "best-practices": 1,
     "seo": 0.83
@@ -706,7 +706,7 @@
   {
     "path": "/about-sba/sba-locations/loan-guaranty-centers/disaster-loan-servicing-center-birmingham-al",
     "score": 0.96,
-    "performance": 0.99,
+    "performance": 1,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 0.83
@@ -714,7 +714,7 @@
   {
     "path": "/about-sba/sba-locations/loan-guaranty-centers/disaster-loan-servicing-center-el-paso-tx",
     "score": 0.96,
-    "performance": 0.99,
+    "performance": 1,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 0.83
@@ -818,7 +818,7 @@
   {
     "path": "/about-sba/work-sba",
     "score": 0.96,
-    "performance": 0.99,
+    "performance": 1,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 0.83
@@ -833,8 +833,8 @@
   },
   {
     "path": "/about-sba/work-sba/disaster-response-jobs-sba",
-    "score": 0.95,
-    "performance": 0.98,
+    "score": 0.96,
+    "performance": 0.99,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 0.83
@@ -850,7 +850,7 @@
   {
     "path": "/about-sba/work-sba/jobs-sba",
     "score": 0.96,
-    "performance": 0.99,
+    "performance": 1,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 0.83
@@ -1160,18 +1160,26 @@
     "seo": 0.92
   },
   {
-    "path": "/article/2016/apr/01/ia-14403-03-one-month-left-apply-sba-disaster-loans",
+    "path": "/article/2016/apr/01/fl-14452-sba-deadline-florida-working-capital-loans-due-drought-may-2",
     "score": 0.98,
     "performance": 1,
-    "accessibility": 1,
+    "accessibility": 0.99,
     "best-practices": 1,
     "seo": 0.92
   },
   {
-    "path": "/article/2016/apr/01/md-14661-deadline-approaching-maryland-private-nonprofit-organizations-apply-physical-damage",
+    "path": "/article/2016/apr/01/ga-14656-sba-disaster-assistance-available-union-county-private-nonprofit-organizations-georgia",
     "score": 0.98,
-    "performance": 0.99,
+    "performance": 1,
     "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/article/2016/apr/01/ia-14403-03-one-month-left-apply-sba-disaster-loans",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 1,
     "best-practices": 1,
     "seo": 0.92
   },
@@ -1194,21 +1202,13 @@
   {
     "path": "/article/2016/apr/01/ms-14685-additional-counties-eligible-sba-disaster-assistance-mississippi",
     "score": 0.98,
-    "performance": 0.99,
+    "performance": 1,
     "accessibility": 0.99,
     "best-practices": 1,
     "seo": 0.92
   },
   {
-    "path": "/article/2016/apr/01/mt-14454-02-one-month-left-apply-sba-disaster-loans",
-    "score": 0.98,
-    "performance": 1,
-    "accessibility": 1,
-    "best-practices": 1,
-    "seo": 0.92
-  },
-  {
-    "path": "/article/2016/apr/01/or-14455-02-one-month-left-apply-sba-disaster-loans",
+    "path": "/article/2016/apr/01/sd-14399-03-one-month-left-apply-sba-disaster-loans",
     "score": 0.98,
     "performance": 1,
     "accessibility": 1,
@@ -1258,7 +1258,7 @@
   {
     "path": "/article/2016/apr/05/pr-14684-los-prestamos-para-perdidas-economicas-de-sba-en-puerto-rico-siguiente-declaracion-del",
     "score": 0.97,
-    "performance": 0.99,
+    "performance": 1,
     "accessibility": 0.97,
     "best-practices": 1,
     "seo": 0.92
@@ -1344,26 +1344,18 @@
     "seo": 0.92
   },
   {
-    "path": "/article/2016/apr/08/dc-14690-sba-disaster-assistance-available-private-nonprofit-organizations-district-columbia",
+    "path": "/article/2016/apr/08/mo-14415-03-one-month-left-apply-sba-disaster-loans",
     "score": 0.98,
     "performance": 1,
-    "accessibility": 0.99,
+    "accessibility": 1,
     "best-practices": 1,
     "seo": 0.92
   },
   {
-    "path": "/article/2016/apr/08/ms-14685-sba-makes-more-mississippi-counties-eligible-disaster-assistance",
+    "path": "/article/2016/apr/08/monday-obama-cabinet-member-lowell-boston-highlight-federal-programs-small-business",
     "score": 0.98,
     "performance": 1,
-    "accessibility": 0.99,
-    "best-practices": 1,
-    "seo": 0.92
-  },
-  {
-    "path": "/article/2016/apr/08/ny-14464-sba-deadline-working-capital-loans-disaster-declaration-pennsylvania-may-9",
-    "score": 0.98,
-    "performance": 1,
-    "accessibility": 0.99,
+    "accessibility": 1,
     "best-practices": 1,
     "seo": 0.92
   },
@@ -1378,7 +1370,7 @@
   {
     "path": "/article/2016/apr/08/or-14663-02-one-month-left-apply-sba-disaster-loans",
     "score": 0.98,
-    "performance": 0.98,
+    "performance": 1,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 0.92
@@ -1392,10 +1384,18 @@
     "seo": 0.92
   },
   {
-    "path": "/article/2016/apr/08/sd-14413-02-one-month-left-apply-sba-disaster-loans",
+    "path": "/article/2016/apr/08/sc-14463-sba-deadline-working-capital-loans-georgia-may-9",
     "score": 0.98,
-    "performance": 0.99,
-    "accessibility": 1,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/article/2016/apr/08/sc-14463-sba-deadline-working-capital-loans-north-carolina-may-9",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.99,
     "best-practices": 1,
     "seo": 0.92
   },
@@ -1424,10 +1424,10 @@
     "seo": 0.92
   },
   {
-    "path": "/article/2016/apr/12/ky-14422-sba-deadline-economic-injury-disaster-loans-private-nonprofit-organizations-kentucky-may-12",
-    "score": 0.97,
+    "path": "/article/2016/apr/12/national-small-business-week-cosponsors-hosting-training-webinars-may-2-5-0",
+    "score": 0.98,
     "performance": 1,
-    "accessibility": 0.97,
+    "accessibility": 1,
     "best-practices": 1,
     "seo": 0.92
   },
@@ -1457,8 +1457,8 @@
   },
   {
     "path": "/article/2016/apr/12/ny-14465-sba-deadline-working-capital-loans-disaster-declaration-pennsylvania-may-9",
-    "score": 0.98,
-    "performance": 1,
+    "score": 0.86,
+    "performance": 0.54,
     "accessibility": 0.99,
     "best-practices": 1,
     "seo": 0.92
