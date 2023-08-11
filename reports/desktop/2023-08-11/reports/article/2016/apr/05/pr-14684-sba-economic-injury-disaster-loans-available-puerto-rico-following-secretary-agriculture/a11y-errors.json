@@ -1,0 +1,166 @@
+[
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-230-H3",
+            "path": "1,HTML,1,BODY,2,DIV,4,FOOTER,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,NAV,0,H3",
+            "selector": "div.grid-row > div.tablet:grid-col-8 > nav.usa-footer__nav > h3#footer-menu-navigation",
+            "boundingRect": {
+              "top": 4423,
+              "bottom": 4424,
+              "left": 32,
+              "right": 33,
+              "width": 1,
+              "height": 1
+            },
+            "snippet": "<h3 class=\"visually-hidden\" id=\"footer-menu-navigation\">",
+            "nodeLabel": "Footer navigation",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "link-name",
+    "title": "Links do not have a discernible name",
+    "description": "Link text (and alternate text for images, when used as links) that is discernible, unique, and focusable improves the navigation experience for screen reader users. [Learn more](https://web.dev/link-name/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-152-A",
+            "path": "1,HTML,1,BODY,2,DIV,3,MAIN,1,DIV,3,DIV,0,DIV,0,DIV,0,ARTICLE,4,DIV,0,DIV,0,DIV,5,P,2,A",
+            "selector": "div.sba-article__first > div.usa-prose > p > a",
+            "boundingRect": {
+              "top": 1783,
+              "bottom": 1783,
+              "left": 32,
+              "right": 32,
+              "width": 0,
+              "height": 0
+            },
+            "snippet": "<a href=\"https://disasterloan.sba.gov/ela\">",
+            "nodeLabel": "div.sba-article__first > div.usa-prose > p > a",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-154-A",
+            "path": "1,HTML,1,BODY,2,DIV,3,MAIN,1,DIV,3,DIV,0,DIV,0,DIV,0,ARTICLE,4,DIV,0,DIV,0,DIV,8,P,6,A",
+            "selector": "div.sba-article__first > div.usa-prose > p > a",
+            "boundingRect": {
+              "top": 2081,
+              "bottom": 2081,
+              "left": 32,
+              "right": 32,
+              "width": 0,
+              "height": 0
+            },
+            "snippet": "<a href=\"http://www.sba.gov/\">",
+            "nodeLabel": "div.sba-article__first > div.usa-prose > p > a",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-155-A",
+            "path": "1,HTML,1,BODY,2,DIV,3,MAIN,1,DIV,3,DIV,0,DIV,0,DIV,0,ARTICLE,4,DIV,0,DIV,0,DIV,23,P,2,A",
+            "selector": "div.sba-article__first > div.usa-prose > p > a",
+            "boundingRect": {
+              "top": 3536,
+              "bottom": 3536,
+              "left": 32,
+              "right": 32,
+              "width": 0,
+              "height": 0
+            },
+            "snippet": "<a href=\"https://disasterloan.sba.gov/ela\">",
+            "nodeLabel": "div.sba-article__first > div.usa-prose > p > a",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-157-A",
+            "path": "1,HTML,1,BODY,2,DIV,3,MAIN,1,DIV,3,DIV,0,DIV,0,DIV,0,ARTICLE,4,DIV,0,DIV,0,DIV,26,P,6,A",
+            "selector": "div.sba-article__first > div.usa-prose > p > a",
+            "boundingRect": {
+              "top": 3834,
+              "bottom": 3834,
+              "left": 32,
+              "right": 32,
+              "width": 0,
+              "height": 0
+            },
+            "snippet": "<a href=\"http://www.sba.gov/\">",
+            "nodeLabel": "div.sba-article__first > div.usa-prose > p > a",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.name-role-value",
+          "wcag2a",
+          "wcag412",
+          "wcag244",
+          "section508",
+          "section508.22.a",
+          "ACT"
+        ]
+      }
+    },
+    "errorCount": 4
+  }
+]

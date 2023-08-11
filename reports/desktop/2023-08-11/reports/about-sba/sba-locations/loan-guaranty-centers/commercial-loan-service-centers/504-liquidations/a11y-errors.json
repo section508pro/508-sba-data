@@ -1,0 +1,91 @@
+[
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-291-H4",
+            "path": "1,HTML,1,BODY,2,DIV,3,MAIN,1,DIV,3,DIV,1,DIV,1,DIV,0,ARTICLE,0,DIV,5,DIV,0,DIV,1,H4",
+            "selector": "div > div.paragraph > div.usa-prose > h4",
+            "boundingRect": {
+              "top": 1863,
+              "bottom": 1890,
+              "left": 384,
+              "right": 1318,
+              "width": 935,
+              "height": 27
+            },
+            "snippet": "<h4>",
+            "nodeLabel": "Pre-debenture purchase",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-292-H4",
+            "path": "1,HTML,1,BODY,2,DIV,3,MAIN,1,DIV,3,DIV,1,DIV,1,DIV,0,ARTICLE,0,DIV,9,DIV,0,DIV,2,H4",
+            "selector": "div > div.paragraph > div.usa-prose > h4",
+            "boundingRect": {
+              "top": 3008,
+              "bottom": 3036,
+              "left": 384,
+              "right": 1318,
+              "width": 935,
+              "height": 27
+            },
+            "snippet": "<h4>",
+            "nodeLabel": "Legal notices",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-293-H4",
+            "path": "1,HTML,1,BODY,2,DIV,3,MAIN,1,DIV,3,DIV,1,DIV,1,DIV,0,ARTICLE,0,DIV,29,DIV,0,DIV,1,TABLE,1,TBODY,1,TR,0,TD,0,H4",
+            "selector": "tbody > tr > td > h4",
+            "boundingRect": {
+              "top": 6383,
+              "bottom": 6410,
+              "left": 401,
+              "right": 814,
+              "width": 413,
+              "height": 27
+            },
+            "snippet": "<h4>",
+            "nodeLabel": "Submit documents:",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 3
+  }
+]
