@@ -1,0 +1,53 @@
+[
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-353-H3",
+            "path": "1,HTML,1,BODY,2,DIV,3,MAIN,1,DIV,3,DIV,0,DIV,0,DIV,0,DIV,1,SECTION,0,UL,0,LI,0,DIV,0,DIV,0,DIV,0,DIV,0,H3",
+            "selector": "div.js-view-dom-id-c0ee09a1163563a6b1e9256f28004ffff5a665409e149964e3f4f842002df1e3 > div.sba-card-styled-listing > div.article-block-listing__header > h3",
+            "boundingRect": {
+              "top": 675,
+              "bottom": 699,
+              "left": 41,
+              "right": 175,
+              "width": 134,
+              "height": 23
+            },
+            "snippet": "<h3>",
+            "nodeLabel": "Press release",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]
