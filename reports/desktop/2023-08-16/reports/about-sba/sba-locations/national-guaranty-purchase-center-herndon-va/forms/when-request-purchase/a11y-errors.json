@@ -1,0 +1,77 @@
+[
+  {
+    "id": "list",
+    "title": "Lists do not contain only `<li>` elements and script supporting elements (`<script>` and `<template>`).",
+    "description": "Screen readers have a specific way of announcing lists. Ensuring proper list structure aids screen reader output. [Learn more](https://web.dev/list/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-225-UL",
+            "path": "1,HTML,1,BODY,2,DIV,3,MAIN,1,DIV,3,DIV,0,DIV,1,DIV,0,ARTICLE,0,DIV,7,DIV,0,DIV,2,UL",
+            "selector": "div > div.paragraph > div.usa-prose > ul",
+            "boundingRect": {
+              "top": 1528,
+              "bottom": 1763,
+              "left": 32,
+              "right": 1318,
+              "width": 1286,
+              "height": 235
+            },
+            "snippet": "<ul>",
+            "nodeLabel": "SBA will immediately process the purchase request of all Export Express Loans; …",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-226-P",
+                  "path": "1,HTML,1,BODY,2,DIV,3,MAIN,1,DIV,3,DIV,0,DIV,1,DIV,0,ARTICLE,0,DIV,7,DIV,0,DIV,2,UL,1,P",
+                  "selector": "div.paragraph > div.usa-prose > ul > p",
+                  "boundingRect": {
+                    "top": 1573,
+                    "bottom": 1573,
+                    "left": 59,
+                    "right": 1318,
+                    "width": 1259,
+                    "height": 0
+                  },
+                  "snippet": "<p>",
+                  "nodeLabel": "div.paragraph > div.usa-prose > ul > p"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.structure",
+          "wcag2a",
+          "wcag131"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]
